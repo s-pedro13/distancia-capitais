@@ -1,0 +1,27 @@
+table, td, th{
+    border: solid 1px black;
+    border-collapse: collapse;
+}
+th {
+    text-align: left;
+    background-color: rgb(159, 202, 119);
+}
+th, td{
+    padding: 15px;
+    font-family: verdana;
+}
+td{
+    background-color:  rgb(252, 251, 251)
+}
+.jp{
+    background-color: rgb(189, 129, 189);
+    text-align: center;
+}
+.joao{
+    background-color: black;
+    
+}
+.pedro{
+    background-color: rgb(136, 138, 214);
+    text-align: center;
+}
